@@ -115,8 +115,4 @@ This is a demonstration project. In production, patient data would flow from EHR
 
 ---
 
-## Related
-
-This project was built as part of my preparation for a Business Analyst role in healthcare AI. It simulates the core workflow of the role: identifying a clinical use case, configuring an AI assistant with appropriate guardrails, and designing output for clinical review.
-
 Built by [Robert Tabamo](https://linkedin.com/in/roberttabamo)
