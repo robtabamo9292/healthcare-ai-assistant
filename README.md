@@ -2,8 +2,6 @@
 
 A clinical decision support tool built with the Anthropic Claude API that identifies heart failure patients with opportunities for improved guideline-directed medical therapy (GDMT).
 
-Inspired by Qualified Health's deployment at UT Medical Branch, where AI screening revealed that up to a third of heart failure patients had medication optimization opportunities that were undetected at scale.
-
 ---
 
 ## What it does
