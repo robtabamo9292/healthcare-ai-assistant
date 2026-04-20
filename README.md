@@ -1,4 +1,4 @@
-# Healthcare AI Assistant — Heart Failure GDMT Review
+# Healthcare AI Assistant: Heart Failure GDMT Review
 
 A clinical decision support tool built with the Anthropic Claude API that identifies heart failure patients with opportunities for improved guideline-directed medical therapy (GDMT).
 
